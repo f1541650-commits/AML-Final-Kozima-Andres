@@ -50,7 +50,7 @@ Sistema predictivo avanzado para identificar clientes con alto riesgo de abandon
 ### **Opción 1: Google Colab (Recomendado)**
 
 1. Abre el notebook en Colab:
-   [![Open In Colab]((https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/f1541650-commits/capstone-churn-prediction/blob/main/notebooks/final_project.ipynb)
+   [![Open In Colab](https://colab.research.google.com/github/f1541650-commits/AML-Final-Kozima-Andres/blob/main/notebooks/final_project.ipynb)
 
 2. Activa GPU: `Runtime` → `Change runtime type` → `GPU`
 
