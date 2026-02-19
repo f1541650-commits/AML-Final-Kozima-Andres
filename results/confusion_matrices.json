@@ -1,0 +1,12 @@
+{
+  "Transformer": {
+    "true_negatives": 776,
+    "false_positives": 0,
+    "false_negatives": 0,
+    "true_positives": 281,
+    "sensitivity": 1.0,
+    "specificity": 1.0,
+    "positive_predictive_value": 1.0,
+    "negative_predictive_value": 1.0
+  }
+}

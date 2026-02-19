@@ -1,0 +1,32 @@
+{
+  "business_context": {
+    "total_customers": 7043,
+    "current_churn_rate": 0.265,
+    "current_annual_churners": 1866,
+    "avg_customer_value_usd": 1800,
+    "retention_cost_per_customer_usd": 95
+  },
+  "model_performance": {
+    "model_used": "N/A",
+    "recall": 0.0,
+    "precision": 0.0,
+    "intervention_success_rate": 0.35
+  },
+  "projected_impact": {
+    "churners_identified": 0,
+    "actual_churners_in_predictions": 0,
+    "customers_retained_after_intervention": 0,
+    "churn_reduction_percentage": 0.0
+  },
+  "financial_analysis": {
+    "year_1": {
+      "implementation_cost_usd": 150000,
+      "annual_operational_cost_usd": 85000,
+      "retention_campaign_investment_usd": 0,
+      "total_investment_usd": 235000,
+      "revenue_retained_usd": 0,
+      "net_benefit_usd": 0,
+      "roi_percentage": 0.0
+    }
+  }
+}

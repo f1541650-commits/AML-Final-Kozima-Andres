@@ -1,0 +1,17 @@
+{
+  "generated_at": "2026-02-19T07:02:48.054113",
+  "project": "Predicci\u00f3n de Churn con Deep Learning",
+  "author": "Andres Kozima",
+  "dataset": {
+    "name": "Telco Customer Churn",
+    "source": "IBM Watson Analytics",
+    "total_samples": 0,
+    "train_samples": 0,
+    "val_samples": 0,
+    "test_samples": 0,
+    "churn_rate": 0.0,
+    "features_original": 21,
+    "features_engineered": 0
+  },
+  "models": {}
+}
